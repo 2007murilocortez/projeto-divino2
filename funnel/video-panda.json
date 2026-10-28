@@ -1,0 +1,13 @@
+{
+  "front": {
+    "iframeId": "panda-37bc2e39-a82e-48cc-9cf0-71790b8836da",
+    "embedUrl": "https://player-vz-d1df0fbd-8bd.tv.pandavideo.com.br/embed/?v=37bc2e39-a82e-48cc-9cf0-71790b8836da",
+    "pitchSeconds": 1719
+  },
+  "upsell": {
+    "iframeId": "panda-a6858920-884e-4541-891d-7125095ee737",
+    "embedUrl": "https://player-vz-d1df0fbd-8bd.tv.pandavideo.com.br/embed/?v=a6858920-884e-4541-891d-7125095ee737",
+    "pitchSeconds": 340,
+    "ctaContainerId": "fcd-payt-container"
+  }
+}

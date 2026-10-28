@@ -1,0 +1,13 @@
+{
+  "goPath": "/go/main",
+  "ctaDelaySeconds": 1719,
+  "ctaLabel": "QUERO GARANTIR MINHA VAGA",
+  "ctaSub": "Acesso imediato ao programa de 7 semanas",
+  "captureEmail": true,
+  "emailPlaceholder": "seu@email.com",
+  "modalBadge": "Último passo",
+  "modalTitle": "Quase lá — reserve seu acesso",
+  "modalSub": "Usamos seu e-mail apenas para liberar seu acesso ao programa.",
+  "modalSubmitLabel": "Continuar para o checkout",
+  "modalFinePrint": "No checkout, seus dados já vêm preenchidos para você finalizar mais rápido."
+}

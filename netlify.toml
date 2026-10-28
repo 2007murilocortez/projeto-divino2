@@ -1,0 +1,26 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/vsl"
+  to = "/vsl/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/oferta"
+  to = "/oferta/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/dikads"
+  to = "/vsl/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/up2diad"
+  to = "/oferta/"
+  status = 301
+  force = true
