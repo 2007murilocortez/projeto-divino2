@@ -1,0 +1,25 @@
+{
+  "provider": "cakto",
+  "main": {
+    "label": "Frequências da Cura Divina — 7 Semanas",
+    "url": "https://pay.cakto.com.br/3a3yuez",
+    "offerId": "3a3yuez",
+    "productId": "387e4015-bbd9-42d3-b565-13eabcd01c10"
+  },
+  "upsell": {
+    "label": "Garrafada Sagrada — Bônus Natural",
+    "url": "https://pay.cakto.com.br/34nigmc",
+    "offerId": "34nigmc",
+    "productId": "809702bb-1680-4c34-bc53-e02e709b397e"
+  },
+  "mainAlt": {
+    "label": "FCD 7 Semanas — TikTok conta 2 (ajuste preço na Cakto)",
+    "url": "",
+    "offerId": "",
+    "productId": "",
+    "vslPath": "/dikads2",
+    "tiktokPixelId": "C8F9V2JC77UCF2HDJUS0"
+  },
+  "memberArea": "https://www.oracaodedeus.site/member-area",
+  "upsellPage": "https://www.oracaodedeus.site/up2diad"
+}

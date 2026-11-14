@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"><title>404</title>
+<script>
+  var l = window.location;
+  var path = l.pathname;
+  var h = l.hash || "";
+  var seg = path.split("/").filter(Boolean);
+  if (seg.length >= 1 && (seg[0] === "vsl" || seg[0] === "dikads")) {
+    location.replace("/vsl/" + (l.search || "") + h);
+    return;
+  }
+  if (seg.length >= 1 && (seg[0] === "oferta" || seg[0] === "up2diad")) {
+    location.replace("/oferta/" + (l.search || "") + h);
+    return;
+  }
+</script>
+</head><body></body></html>

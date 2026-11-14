@@ -1,0 +1,34 @@
+{
+  "redirects": [
+    {
+      "source": "/vsl",
+      "destination": "/vsl/",
+      "permanent": true
+    },
+    {
+      "source": "/oferta",
+      "destination": "/oferta/",
+      "permanent": true
+    },
+    {
+      "source": "/dikads",
+      "destination": "/vsl/",
+      "permanent": true
+    },
+    {
+      "source": "/up2diad",
+      "destination": "/oferta/",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/go/main",
+      "destination": "/go/main/index.html"
+    },
+    {
+      "source": "/go/upsell",
+      "destination": "/go/upsell/index.html"
+    }
+  ]
+}
